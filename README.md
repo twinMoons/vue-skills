@@ -17,3 +17,11 @@ npm run build
 npm run build --report
 ```
 
+#### 使用的配置参数
+
+```
+node v12.13.1
+npm 6.12.1
+vue 2.9.6
+```
+
