@@ -1,18 +1,16 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
+    <p>hello world</p>
+    <base-button-confirm>确认</base-button-confirm>
+    <base-button-cancle>取消</base-button-cancle>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  components: {}
 }
 </script>
 
