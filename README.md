@@ -1,6 +1,8 @@
 # vue-skills
 对vue项目的一些技巧进行总结，使用
 
+一些方法简单的介绍写在[掘金中，可以点开查看](https://juejin.im/user/5e9ec3f36fb9a03c494bd0fc)
+
 ## Build Setup
 
 ``` bash
