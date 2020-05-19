@@ -6,6 +6,12 @@
 ## Build Setup
 
 ``` bash
+# download
+git clone https://github.com/twinMoons/vue-skills.git
+
+# in
+cd vue-skills
+
 # install dependencies
 npm install
 
