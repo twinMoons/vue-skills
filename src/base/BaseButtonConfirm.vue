@@ -9,5 +9,5 @@ export default {
 }
 </script>
 <style scoped>
-  .basebuttonconfirm { font-size: 42px; font-weight: bold; color: #fff; flex: 1; text-align: center; background: blue; }
+  .basebuttonconfirm { font-size: 20px; padding: 10px 0;  color: #fff; flex: 1; text-align: center; background: blue; }
 </style>

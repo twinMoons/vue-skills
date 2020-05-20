@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import upperFirst from 'lodash/upperFirst'
 import camelCase from 'lodash/camelCase'
+import resizeFontsize from './utils/rem'
 
 Vue.config.productionTip = false
 
@@ -39,6 +40,8 @@ requireComponent.keys().forEach(fileName => {
     componentConfig.default || componentConfig
   )
 })
+
+resizeFontsize()
 
 /* eslint-disable no-new */
 new Vue({
